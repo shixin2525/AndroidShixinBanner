@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="shixin">
+        <attr name="loop" format="boolean"></attr>
+        <attr name="tag" format="boolean"></attr>
+        <attr name="fanye_sudu" format="integer"></attr>
+    </declare-styleable>
+</resources>
