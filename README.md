@@ -1,6 +1,8 @@
 # AndroidShixinBanner 
 
 功能包括自动翻页，触摸时停止翻页，可添加viewpager的滑动时的动画，自定义小圆点样式，可设置自己的图片,几行代码轻松实现一个功能完善的轮播图，更多功能后续完善
+
+
 ###API说明
    xml中：
    
@@ -32,7 +34,22 @@
     }
     
     
-### 使用:
+### 使用: 
+
+
+
+ 依赖导入:
+ allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+   
+   
+   dependencies {
+	        compile 'com.github.shixin2525:AndroidShixinBanner:1.0'
+	}
           
     <com.gold.hd.shixingbanner.mylibrary.ShixingBanner
         android:id="@+id/shixin"
