@@ -79,3 +79,6 @@
 ![Image text](https://raw.githubusercontent.com/shixin2525/AndroidShixinBanner/master/shixingbanner/src/main/res/img-folder/asf.gif)
 
 
+
+
+###博客地址:http://blog.csdn.net/mingtianguohou100
